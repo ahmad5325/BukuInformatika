@@ -4,5 +4,4 @@ pycrypto
 selenium
 gspread
 oauth2client
-io
 PyPDF2
