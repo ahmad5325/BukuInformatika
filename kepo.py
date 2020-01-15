@@ -166,7 +166,7 @@ class Kepo(object):
 		kelulusan = self.isLulus(nilai)
 		return kelulusan
 		
-	def getPersonalData(self, NPM, Pembimbing,Nilai, Bimbingan):
+	def getPersonalData(self, NPM, Pembimbing, Nilai, Bimbingan):
 		data=[]
 		now = datetime.now()
 		data.append(now.strftime("%d/%m/%Y %H:%M:%S"))
