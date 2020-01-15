@@ -3,9 +3,9 @@ Key Production
 
 ## How to use
 1. install python 3 and add to path
-2. download chromedriver, unzip it and put into /usr/bin or c:windows\system32 (internship **skip** this)
+2. download chromedriver, unzip it and put into /usr/bin or c:windows\system32
 3. for mac user rename kepo.cpython-37m-darwin.so to kepo.so
-4. for linux user rename kepo.cpython-37m-x64.so to kepo.so
+4. for linux user rename kepo.cpython-37m-x64.so to kepo.so (internship from **kepo.cpython-37m-x64.so** to **kepointernship.so**)
 5. for windows user rename kepo.cp37-win_amd64.pyd to kepo.pyd (internship from **kepointernship.cp37-win_amd64.pyd** to **kepointernship.pyd**)
 6. run this command
 
